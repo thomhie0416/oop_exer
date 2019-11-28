@@ -13,7 +13,7 @@
 
   background-image:url(car.jpg);
   background-position:center;
-  background-size: no-repeat;
+  background-size:cover;
   margin-left: 500px;
 
 	}
