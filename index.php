@@ -20,7 +20,7 @@
 
 </style>
 
-<center><div style="border-style:solid;font-family:serif;font-size: 25px;color: solid black;">
+<center><div style="border-style:solid;font-family:serif;font-size: 25px;color: #660000;">
 
 <?php
 	
